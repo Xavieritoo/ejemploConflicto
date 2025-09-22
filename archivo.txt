@@ -1,3 +1,3 @@
 Línea 1
-Línea 2
+Línea 2 modificada en rama
 Línea 3
