@@ -1,0 +1,2 @@
+# ejemploConflicto
+Ejemplo de conflicto
